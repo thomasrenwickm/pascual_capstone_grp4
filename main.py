@@ -258,7 +258,7 @@ Before optimization: The client made [frequency_old] median orders per month wit
 
 After optimization: The model suggests [frequency_new] orders per month with [contacts_new] visits, improving efficiency to [efficiency_new].
 
-Business Impact: This optimization generates [savings]€ in total savings with an estimated recovery time of [recovery_months] months. The changes reduce unnecessary visits while maintaining order volume."
+Business Impact: This optimization generates [savings]€ in total savings with an estimated recovery time of [recovery_months] months."
 
 ---
 
