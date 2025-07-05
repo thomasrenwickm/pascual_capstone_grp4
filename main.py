@@ -338,9 +338,7 @@ def main():
     with st.expander("💡 Example Questions"):
         st.markdown("""
         - "Explain the changes made to client 100229632"
-        - "What optimization was applied to client 555444333?"
         - "Show me the efficiency improvements for client 123456789"
-        - "Why were the contacts reduced for client 987654321?"
         """)
     
     # User input
