@@ -334,13 +334,6 @@ def main():
     # Main input section
     st.markdown("### 💬 Ask about a client optimization")
     
-    # Example questions for user guidance
-    with st.expander("💡 Example Questions"):
-        st.markdown("""
-        - "Explain the changes made to client 100229632"
-        - "Show me the efficiency improvements for client 123456789"
-        """)
-    
     # User input
     user_input = st.text_input(
         "Enter your question about a specific client:",
