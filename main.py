@@ -383,6 +383,7 @@ def main():
     # Footer
     st.markdown("---")
     st.markdown("*Pascual Client Optimization Tool - Powered by Gemini 2.0 Flash*")
+    st.markdown("*Pascual Capstone Project Group 4: Abdullah Alshaarawi, James Alarde, Hiromitsu Fujiyama, Sanjo Joy, Thomas Arturo Renwick Morales*")
 
 # --- RUN APPLICATION ---
 if __name__ == "__main__":
