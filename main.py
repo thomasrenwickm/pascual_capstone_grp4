@@ -232,7 +232,7 @@ Analyze the client data provided and explain the optimization analysis in a busi
 1. **Client Background**: Summarize key client characteristics (median ticket, volume, income)
 2. **Pre-Optimization State**: Describe original frequency, contacts, and efficiency
 3. **Post-Optimization Changes**: Explain new suggested frequency and contacts
-4. **Business Impact**: Quantify savings, efficiency improvements, and recovery time
+4. **Business Impact**: Quantify savings, and recovery time
 
 📐 BUSINESS CONTEXT:
 - Logistics cost per order: 10€
