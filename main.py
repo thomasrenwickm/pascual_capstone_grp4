@@ -214,8 +214,8 @@ Analyze the client data provided and explain the optimization analysis in a busi
 
 📋 CRITICAL FIRST STEP - CHECK FOR NO CHANGES:
 ⚠️ BEFORE writing your response, carefully examine these values:
-- Compare prom_contacts_month_old with prom_contacts_month_new (round to 1 decimal)
-- Compare frequency_old with frequency_new (round to 1 decimal)  
+- Compare prom_contacts_month_old with prom_contacts_month_new (round to 2 decimal)
+- Compare frequency_old with frequency_new (round to 2 decimal)  
 - Check if savings equals 0 or 0.0
 
 🔍 IF ALL THREE CONDITIONS ARE TRUE (contacts same, frequency same, savings = 0):
